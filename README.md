@@ -22,7 +22,7 @@ A Python trading bot for Binance Futures Testnet with CLI interface.
 1. Clone the repository:
 ```bash
 git clone https://github.com/TanishSharma2004/trading_bot
-cd trading-bot
+cd trading_bot
 ```
 
 2. Install dependencies:
