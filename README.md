@@ -134,4 +134,7 @@ The log files are automatically created in the `logs/` directory when you first 
 
 ## Author
 Tanish Sharma
-Email: tanish989130@gmail.com]
+Email: tanish989130@gmail.com
+
+## Sample test video link
+https://www.loom.com/share/a2f5698ecfd1440f9b49332c3ebc806c?sid=f7b2ee6e-6f23-4d2d-b04a-fceeafabc51c
